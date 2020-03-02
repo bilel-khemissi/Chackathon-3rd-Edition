@@ -93,6 +93,13 @@ a:focus{
 
 	overflow:hidden;
 }
+
+.event-loc {
+	font-size: 25px !important;
+		font-weight: 600;
+		font-style: unset;
+}
+
 #home{
 	background: url(../img/footer_bg.jpg);
 	background-size: cover;
